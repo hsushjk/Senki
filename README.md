@@ -40,11 +40,3 @@ coverY: 24
 #### 更多关于 S Project <a href="#geng-duo-guan-yu-projectx" id="geng-duo-guan-yu-projectx"></a>
 
 * 如果你想知道更多关于 S Project 的足迹与成长, 请查看[大事记](da-shi-ji.md)
-
-#### License <a href="#license" id="license"></a>
-
-[Mozilla Public License Version 2.0](https://github.com/XTLS/Xray-core/blob/main/LICENSE)
-
-#### Stargazers over time <a href="#stargazers-over-time" id="stargazers-over-time"></a>
-
-[open in new window](https://starchart.cc/XTLS/Xray-core)
