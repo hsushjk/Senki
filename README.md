@@ -6,7 +6,7 @@ coverY: 24
 
 # 🐿 S Project
 
-### 若您为实用党，您可以选择直接[🐿️开始使用](kai-shi-shi-yong.md) <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
+### 若您为实用党，您可以选择直接[🐿️开始使用](vmess-xie-yi.md) <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
 
 ### S Project？ <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
 
@@ -30,7 +30,7 @@ coverY: 24
 欢迎帮助 S Project 变得更好！
 
 * 💰 向千木社投喂任何形式的资源
-* 📝 在 [GitHub](https://github.com/hsushjk/junkang) 或 [联系社长](lian-xi-she-chang.md) 发起建设性或有意义的 issue 与 discussion.
+* 📝 在 [GitHub](https://github.com/hsushjk/junkang) 或 [联系社长](kuai-su-ru-men.md) 发起建设性或有意义的 issue 与 discussion.
 * 📝 向千木社投喂使用报告
 * 💬 让社长听你吹牛逼
 
