@@ -4,7 +4,7 @@
 * [开发指南](kai-fa-zhi-nan.md)
 * [快速入门](kuai-su-ru-men.md)
 * [配置文件](pei-zhi-wen-jian.md)
-* [大史记](da-shi-ji.md)
+* [大事记](da-shi-ji.md)
 * [VMess 协议](vmess-xie-yi.md)
 * [开发规范](kai-fa-gui-fan.md)
 * [编译文档](bian-yi-wen-dang.md)
