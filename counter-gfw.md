@@ -47,6 +47,6 @@
 或者通过下方链接直达（不推荐，链接有失效风险）
 
 {% embed url="https://site.senki.top/cgfw.html" %}
-获取关键信息
+直达
 {% endembed %}
 
