@@ -2,3 +2,7 @@
 
 > **这个章节将展示千木社“S Project”提供的所有服务并提供索引**
 
+
+
+快速支持页\[Senki-Quick Support]
+
