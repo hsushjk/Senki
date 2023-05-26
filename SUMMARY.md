@@ -1,8 +1,8 @@
 # Table of contents
 
 * [🐿 S Project](README.md)
-* [投喂](kai-fa-zhi-nan.md)
-* [联系社长](kuai-su-ru-men.md)
+* [投喂](tou-wei.md)
+* [联系社长](lian-xi-she-chang.md)
 * [LICENSE与规范](license-yu-gui-fan.md)
 * [大事记](da-shi-ji.md)
 * [Senki To Do](senki-to-do.md)
