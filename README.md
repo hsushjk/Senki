@@ -1,7 +1,7 @@
 ---
 description: 千木项目组
 cover: .gitbook/assets/img1.png
-coverY: 24
+coverY: 0
 ---
 
 # 🐿 S Project
@@ -30,7 +30,7 @@ coverY: 24
 欢迎帮助 S Project 变得更好！
 
 * 💰 向千木社投喂任何形式的资源
-* 📝 在 [GitHub](https://github.com/hsushjk/junkang) 或 [联系社长](kuai-su-ru-men.md) 发起建设性或有意义的 issue 与 discussion.
+* 📝 在 [GitHub](https://github.com/hsushjk/junkang) 或 [联系社长](broken-reference) 发起建设性或有意义的 issue 与 discussion.
 * 📝 向千木社投喂使用报告
 * 💬 让社长听你吹牛逼（
 
