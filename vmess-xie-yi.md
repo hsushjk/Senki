@@ -13,3 +13,4 @@
 * [ ] [KMS](kms.md)
 * [ ] [NTP](ntp.md)
 * [ ] [Cloud](cloud.md)
+* [ ] [DNS](dns.md)

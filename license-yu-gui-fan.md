@@ -1,6 +1,6 @@
-# License
+# LICENSE与规范
 
-> **这个章节将展示千木社使用的许可证**
+> **这个章节将展示千木社使用的许可证和相关规范**
 
 ### 千木社前端 <a href="#gai-shu" id="gai-shu"></a>
 
@@ -382,6 +382,10 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
   defined by the Mozilla Public License, v. 2.0.
 ```
 
-## 其它
+## 其它许可证
 
 千木社其它项目和分支所遵守的许可证将在用户使用时适时展现
+
+## 规范：
+
+对内无明确规范，社长仅尊重原作者，格式什么的以后再说罢
