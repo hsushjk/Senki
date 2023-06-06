@@ -1,5 +1,5 @@
 ---
-description: 千木项目组-距离停运还有 250 天
+description: 千木项目组-距离停运还有 249 天
 cover: .gitbook/assets/img1.png
 coverY: 0
 ---
