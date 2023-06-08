@@ -1,5 +1,7 @@
 # Senki MCJava
 
+<figure><img src=".gitbook/assets/home-hero.jpg" alt=""><figcaption><p>Welcome to the Minecraft Service</p></figcaption></figure>
+
 ### MOD生存服
 
 服务端版本1.19.4-FabricAPI版本0.83.0-Fabric Loader版本0.14.21
