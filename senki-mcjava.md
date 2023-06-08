@@ -51,6 +51,10 @@
 
 Winodws客户端下载地址\[HMCL]：[https://mc.senki.top/Senki-JavaMC-khd.zip](https://mc.senki.top/Senki-JavaMC-khd.zip)
 
+更新记录：
+
+23/06/08---修复了玩家皮肤显示问题
+
 服务器特性：
 
 1. 死亡后生成墓碑：可以防止物品丢失。为了游戏的平衡性，背包需要提前有以下材料：盔甲架：1个原木 或 3个木板 | 箱子：2个原木、8个木板 或 1个箱子。
