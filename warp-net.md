@@ -72,7 +72,7 @@ CF WARP客户端多平台支持
 
 1.打开客户端界面，单击齿轮，打开偏好设置。
 
-<figure><img src=".gitbook/assets/1.png" alt="" width="182"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1).png" alt="" width="182"><figcaption></figcaption></figure>
 
 2.依次单击账户——使用 Cloudflare Zero Trust 登录
 
@@ -80,7 +80,7 @@ CF WARP客户端多平台支持
 
 3.输入通过“快速支持页”按照提示获得的团队名称。
 
-<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 4.输入合规的邮箱地址
 

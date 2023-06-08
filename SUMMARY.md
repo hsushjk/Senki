@@ -15,3 +15,4 @@
 * [NTP](ntp.md)
 * [Cloud](cloud.md)
 * [DNS](dns.md)
+* [Senki MCJava](senki-mcjava.md)
