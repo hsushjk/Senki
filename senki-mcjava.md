@@ -1,7 +1,5 @@
 # Senki MCJava
 
-### Senki MCJava
-
 ### MOD生存服
 
 服务端版本1.19.4-FabricAPI版本0.83.0-Fabric Loader版本0.14.21
