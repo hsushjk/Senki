@@ -30,6 +30,8 @@
 14. Chunksending（优化模组，优化了服务端区块数据包的分发逻辑）
 15. Beautified Chat（美化聊天）
 16. AdditionalStructures（失落废墟，随机生成小建筑）
+17. FerriteCore（内存优化模组）
+18. Krypton（又是一个一个一个优化模组，撅望）
 
 服务器前置模组：
 
@@ -44,6 +46,14 @@
 
 1. diggusmaximus（连锁挖矿）（需要服务端同时安装）
 2. sodium（优化模组，优化fps）
+3. FerriteCore（内存优化模组）
+4. IMBlocker（输入法冲突修复）
+5. Indium（渲染优化模组）
+6. Krypton（又是一个一个一个优化模组，撅望）
+7. LambDynamicLights（动态光源）
+8. Mod Menu（模组菜单）
+9. ReesesSodiumOptions（替换优化 Sodium 的选项屏幕）
+10. Sodium Extra（Sodium拓展，将OptiFine的部分功能引入）
 
 客户端前置模组：
 
