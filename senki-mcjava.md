@@ -26,6 +26,12 @@ Fabric Loader版本:0.14.21
 
 兼容性：Only Java
 
+强制正版登录：否
+
+开始使用：[客户端支持](senki-mcjava.md#ke-hu-duan-zhi-chi)
+
+注意事项：[注意事项](senki-mcjava.md#zhu-yi-shi-xiang)
+
 #### 服务器模组：
 
 1. 早点睡\[<mark style="color:blue;">Sleep Sooner</mark>]**\[双端]**
@@ -248,3 +254,44 @@ Fabric Loader版本:0.14.21
 ### 物理引擎道具合成
 
 ![](.gitbook/assets/0.png) ![](.gitbook/assets/1.png) ![](<.gitbook/assets/2 (1).png>) ![](.gitbook/assets/3.png)
+
+## 客户端支持：
+
+{% hint style="info" %}
+仅对Windows端进行了最大程度的优化适配
+{% endhint %}
+
+{% hint style="info" %}
+全自动部署/更新仅与HMCL进行联动，其它启动器暂不支持
+{% endhint %}
+
+1. [下载HMCL](https://hmcl.huangyuhui.net/download/)
+2. 打开HMCL
+3. [设置好皮肤](senki-mcjava.md#1.-pi-fu-wen-ti)（除非你不在意皮肤问题
+4. 单击左侧“版本列表”
+5. 单击“安装整合包”
+6. 选择“从互联网下载整合包”
+7. 输入链接：[https://mc.senki.top/server-manifest.json](https://mc.senki.top/server-manifest.json)
+8. 单击安装，等待安装完成
+9. 此后每次启动客户端都会检查更新，无需二次安装
+
+{% hint style="info" %}
+为了避免不必要的麻烦，请不要随意删改添加Mod，除非你很懂。
+{% endhint %}
+
+## 注意事项：
+
+### 1.皮肤问题：
+
+正版和离线用户不出意外都会发现自己和其它人的皮肤不正常，因为没有被正确配置。(除非你不注重皮肤
+
+本服使用“[MC统一认证平台](http://cqjzd.immersionh.cn/)”作为皮肤站
+
+1. 注册并登录“[MC统一认证平台](http://cqjzd.immersionh.cn/)”
+2. 进入“我的衣柜”，设置皮肤和披风
+3. 进入“角色管理”，检查或修改角色名（客户端的离线用户名称应该和角色名保持一致）
+
+
+
+
+
