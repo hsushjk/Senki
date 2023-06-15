@@ -95,6 +95,7 @@ Fabric Loader版本:0.14.21
 25. WI变焦\[WI Zoom]
 26. Xaero的小地图\[Xaero's Minimap]**\[双端服可选]**
 27. Xaero的世界地图\[Xaero's World Map]**\[双端服可选]**
+28. 万用皮肤补丁\[CustomSkinLoader]
 
 #### 客户端前置模组：
 
