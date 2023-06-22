@@ -12,5 +12,4 @@
 * [x] [Senki-FRP](frp.md)
 * [x] [Senki-KMS](kms.md)
 * [x] [Senki-NTP](ntp.md)
-* [ ] [Cloud](cloud.md)
 * [x] [Senki MCJava](senki-mcjava.md)
