@@ -6,7 +6,7 @@ coverY: 0
 
 # 🐿 S Project
 
-### S Project为社长自用的工具集。若您为实用党，您可以选择直接[🐿️开始使用](vmess-xie-yi.md)跳过废话 <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
+### [🐿️开始使用](vmess-xie-yi.md)：S Project为社长自用的工具集。若您为实用党，您可以选择直接[🐿️开始使用](vmess-xie-yi.md)跳过废话 <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
 
 ### S Project？ <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
 
