@@ -4,7 +4,7 @@
 
 ### 千木社前端 <a href="#gai-shu" id="gai-shu"></a>
 
-千木社搭建前端自觉遵守 Mozilla Public License 2.0 ，其内容如下：
+千木社前端建设自觉遵守 Mozilla Public License 2.0 ，其内容如下：
 
 ```
 Mozilla Public License Version 2.0
@@ -388,4 +388,4 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 ## 规范：
 
-对内无明确规范，社长仅尊重原作者，格式什么的以后再说罢
+对内无明确规范，社长仅尊重原作者，格式什么的以后再说罢（有弄仪式感的时间，不如优化用户体验

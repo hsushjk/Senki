@@ -1,11 +1,10 @@
 # Table of contents
 
 * [🐿 S Project](README.md)
-* [投喂](tou-wei.md)
-* [联系社长](lian-xi-she-chang.md)
+* [Senki To Do](senki-to-do.md)
+* [关于我(们)](guan-yu-wo-men.md)
 * [LICENSE与规范](license-yu-gui-fan.md)
 * [大事记](da-shi-ji.md)
-* [Senki To Do](senki-to-do.md)
 * [🐿 开始使用](vmess-xie-yi.md)
 * [快速支持页](kuai-su-zhi-chi-ye.md)
 * [Counter GFW](counter-gfw.md)
