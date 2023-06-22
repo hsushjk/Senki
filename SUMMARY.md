@@ -10,7 +10,7 @@
 * [Counter GFW](counter-gfw.md)
 * [WARP NET](warp-net.md)
 * [Senki-FRP](frp.md)
-* [KMS](kms.md)
+* [Senki-KMS](kms.md)
 * [NTP](ntp.md)
 * [Cloud](cloud.md)
 * [Senki MCJava](senki-mcjava.md)
