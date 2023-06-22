@@ -11,6 +11,6 @@
 * [WARP NET](warp-net.md)
 * [Senki-FRP](frp.md)
 * [Senki-KMS](kms.md)
-* [NTP](ntp.md)
+* [Senki-NTP](ntp.md)
 * [Cloud](cloud.md)
 * [Senki MCJava](senki-mcjava.md)
