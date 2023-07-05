@@ -13,3 +13,4 @@
 * [x] [Senki-KMS](kms.md)
 * [x] [Senki-NTP](ntp.md)
 * [x] [Senki MCJava](senki-mcjava.md)
+* [ ] [MemMgr](memmgr.md)
