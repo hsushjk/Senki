@@ -6,14 +6,14 @@ coverY: 0
 
 # 🐿 S Project
 
-### [🐿️开始使用](vmess-xie-yi.md)：S Project为社长自用的工具集。若您为实用党，您可以选择直接[🐿️开始使用](vmess-xie-yi.md)跳过废话 <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
+### [🐿️开始使用](vmess-xie-yi.md)：S Project为社长自用的工具集。若您为实用党，您可以选择[🐿️开始使用](vmess-xie-yi.md)跳过废话 <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
 
 ### S Project？ <a href="#xtls-xray-v2ray" id="xtls-xray-v2ray"></a>
 
 **本着物尽其用，资源共享的理念，出现了千木社(Senki)**
 
 * S Project全称Senki Project，是过去两年千木社所有在线服务的合集
-  * 该合集之所以叫S Project，是因为千木社和某些“项目”一样，有看起来比较完整的体系~~（当然，干不下去就跑路）~~。
+  * 该合集之所以叫S Project，是因为千木社和某些“项目”一样，有看起来比较完整的体系~~（当然，也和其它项目一样干不下去就跑路）~~。
   * 尽管收益为0赞助为0，但自始至终完全免费。因为社长也是项目的使用者，四舍五入相当于自用，无所谓，成本又不大。
   * 善始善终，每开放一个服务，必配套一个用户手册，开放服务的目的是节约大家的时间和金钱成本，不配套手册会浪费使用者探索的时间。白嫖也得白嫖的爽嘛。
   * 不在社交平台公开，全靠有缘人发现/分享，避免资源超开/污染/滥用
@@ -21,18 +21,19 @@ coverY: 0
 
 > “人人为我，我为人人(？)。”
 
-#### 我是谁？ <a href="#wo-men-shi-shui" id="wo-men-shi-shui"></a>
-
-> 不重要，社长只是普通人而已。区别在他们会女装唱歌打篮球，我只会摆弄摆弄电子垃圾（乐
-
 #### 帮助 S Project 变得更好 <a href="#bang-zhu-xray-bian-de-geng-qiang" id="bang-zhu-xray-bian-de-geng-qiang"></a>
 
 欢迎帮助 S Project 变得更好！
 
 * 💰 向千木社投喂任何形式的资源
 * 📝 在 [GitHub](https://github.com/hsushjk/junkang) （不推荐）或 [联系社长](broken-reference) 发起建设性或有意义的 issue 与 discussion.
-* 📝 向千木社投喂使用报告
-* 💬 让社长听你吹牛逼（
+* 📝 向千木社提交使用报告（类似于观后感），以优化使用体验
+* 💬 让社长听你吹牛逼
+
+#### 加入千目社
+
+* 若您本着服务用户，优化用户体验而出发，那您可以加入构建和维护
+* 千目社不欢迎单一语种/单一技能的开发者，千目社需要一个_<mark style="background-color:orange;">能兼顾处理数据库、服务器、系统工程和客户端的所有工作的（类似于全栈工程师，但只要求兼顾，千目社并不要求效率）</mark>_，非二极管的，能够站在普通用户的视角上的
 
 #### 致谢 <a href="#zhi-xie" id="zhi-xie"></a>
 

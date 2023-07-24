@@ -8,7 +8,7 @@
 
 E-Mail：hsushjk@outlook.com/Fuqing2233@gmail.com
 
-TG：(没法用了，换设备登不上了，有新号再说吧)
+TG：@fuqing2233
 
 Q：3402560498
 

@@ -141,7 +141,7 @@ Tip：如果对分配到的节点不满意，可以挂一个离大陆近的梯�
 <figure><img src=".gitbook/assets/08.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-提示：如果登录时出现问题或超时，可以挂梯子解决，仅需挂一次，除非重装客户端/系统，否则无需登录第二次。
+提示：如果登录时出现问题或超时，可以挂魔法解决，仅需挂一次，除非重装客户端/系统，否则无需登录第二次。
 {% endhint %}
 
 {% hint style="info" %}

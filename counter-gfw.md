@@ -2,6 +2,8 @@
 
 > 这个章节将展示“Counter GFW”的有关信息
 
+### Counter GFW已稳定运行数月且并没有过什么改动！
+
 ## 描述：
 
 该服务旨在绕过GFW，无视大陆网络审查，使用户能够访问被GFW屏蔽的内容。
@@ -38,7 +40,7 @@
 ## 规则：
 
 1. 禁止用于反政府/儿童色情/性虐待/走私枪支弹药/毒品/诈骗
-2. 尽量不要用于注册高度敏感的网站，例如Google，但登录可以。
+2. 尽量不要用于<mark style="background-color:orange;">注册</mark>高度敏感的网站，例如Google（但<mark style="background-color:orange;">登录</mark>可以。
 
 ## 连接：
 

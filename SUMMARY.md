@@ -13,4 +13,5 @@
 * [Senki-KMS](kms.md)
 * [Senki-NTP](ntp.md)
 * [Senki MCJava](senki-mcjava.md)
+* [GitHub Proxy](github-proxy.md)
 * [MemMgr](memmgr.md)
