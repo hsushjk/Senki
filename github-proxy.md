@@ -11,3 +11,9 @@
 * 节点：Cloudflare Workers
 * 日请求限制：100000
 
+## 快速支持/开始使用：
+
+{% embed url="https://github.senki.top" %}
+直达
+{% endembed %}
+

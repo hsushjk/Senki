@@ -1,5 +1,7 @@
 # Senki-NTP
 
+
+
 > 这个章节将展示“Senki-NTP”的有关信息
 
 ## 描述：
@@ -11,3 +13,9 @@
 * 地址：senki.top
 * 端口：123(默认端口)
 * 协议：UDP
+
+## 快速支持：
+
+{% embed url="https://site.senki.top/ntp.html" %}
+直达
+{% endembed %}

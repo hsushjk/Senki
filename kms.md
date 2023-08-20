@@ -26,6 +26,12 @@
 * 端口：1688(默认端口)
 * 协议：TCP
 
+## 快速支持：
+
+{% embed url="https://site.senki.top/kms.html" %}
+直达
+{% endembed %}
+
 ## 使用：
 
 ### 小白用户：

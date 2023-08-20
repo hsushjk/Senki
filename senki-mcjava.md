@@ -300,7 +300,9 @@ Fabric Loader版本:0.14.21
 
 连不上服务器请[私信](guan-yu-wo-men.md)我（我没开服，省电
 
+## 快速支持：
 
-
-
+{% embed url="https://mc.senki.top/" %}
+直达
+{% endembed %}
 
