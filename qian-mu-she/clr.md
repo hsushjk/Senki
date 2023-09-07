@@ -1,5 +1,5 @@
 ---
-description: Copyright&LICENSE&Rules
+description: Copyright & LICENSE & Rules
 ---
 
 # © 版权&许可&规范
