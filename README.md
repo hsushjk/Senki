@@ -1,11 +1,11 @@
 ---
 description: SENKI.TOP
 cover: .gitbook/assets/senki cover.png
-coverY: 52.088512241054616
+coverY: -0.03948775894537704
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 千木社
+# 🌏 千木社
 
 ## 欢迎访问 千木社
 
@@ -27,3 +27,5 @@ layout:
 千木社是由 Fuqing本人直接运营，不受Milk Cap 365管理的公益站。致力于将已有资源的利用率最大化，将成品资源无偿共享，将信息差所带来的内耗减小。打造安全至上，稳定兼顾，性能拉满的使用体验。
 
 现阶段对外提供网信，树洞等免费服务。
+
+<figure><img src=".gitbook/assets/Senki彩长.svg" alt=""><figcaption><p>Senki Wallpaper</p></figcaption></figure>

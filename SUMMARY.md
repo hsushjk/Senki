@@ -1,6 +1,6 @@
 # Table of contents
 
-* [千木社](README.md)
+* [🌏 千木社](README.md)
 * [🔵 S\_Project](<README (1).md>)
 * [Senki To Do](senki-to-do.md)
 * [LICENSE与规范](license-yu-gui-fan.md)
