@@ -1,6 +1,6 @@
 # Senki MCJava
 
-<figure><img src=".gitbook/assets/home-hero.jpg" alt=""><figcaption><p>Welcome to the Minecraft Service</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home-hero.jpg" alt=""><figcaption><p>Welcome to the Minecraft Service</p></figcaption></figure>
 
 > 这个章节将展示“Senki MCJava”的有关信息
 
@@ -258,7 +258,7 @@ Fabric Loader版本:0.14.21
 
 ### 物理引擎道具合成
 
-![](.gitbook/assets/0.png) ![](.gitbook/assets/1.png) ![](<.gitbook/assets/2 (1).png>) ![](.gitbook/assets/3.png)
+![](../../.gitbook/assets/0.png) ![](../../.gitbook/assets/1.png) ![](<../../.gitbook/assets/2 (1).png>) ![](../../.gitbook/assets/3.png)
 
 ## 客户端支持：
 
@@ -298,7 +298,7 @@ Fabric Loader版本:0.14.21
 
 ### 2.联不通？移不动？
 
-连不上服务器请[私信](./)我（我没开服，省电
+连不上服务器请[私信](../../)我（我没开服，省电
 
 ## 快速支持：
 

@@ -1,7 +1,7 @@
 ---
 description: SENKI.TOP
-cover: .gitbook/assets/senki cover.png
-coverY: -0.03948775894537704
+cover: .gitbook/assets/Senki白长.svg
+coverY: 111.97866666666665
 layout:
   cover:
     visible: true
@@ -20,6 +20,8 @@ layout:
 
 # 🌏 千木社
 
+> 常驻公告：为保证www.senki.top能在任何情况下都能够被访问，因此该站单独使用GitBook托管，加载速度将会被拖缓。但不代表全站质量。
+
 ## 欢迎访问 千木社
 
 千木社原名 “Fuqing博客” ，成立于2022年，七月末利用现有的个人名下资源转型为公益站，更名为千木社。
@@ -28,4 +30,4 @@ layout:
 
 现阶段对外提供网信，树洞等免费服务。
 
-<figure><img src=".gitbook/assets/Senki彩长.svg" alt=""><figcaption><p>Senki Wallpaper</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Senki彩长.svg" alt=""><figcaption><p>SENKI.TOP Wallpaper</p></figcaption></figure>
