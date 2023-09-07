@@ -29,6 +29,6 @@ S\_Project的核心组件和管理体系被称为`S-QS(即Senki-Quick Support)`�
 欢迎帮助 S Project 变得更好！
 
 * 💰 向千木社投喂任何形式的资源
-* 📝 联系社长 发起建设性或有意义的 issue 与 discussion
+* 📝 联系社长，发起建设性或有意义的 issue 与 discussion
 * 📝 向千木社提交使用报告（类似于观后感），以优化用户使用体验
 * 💬 让社长听你吹牛逼（？
