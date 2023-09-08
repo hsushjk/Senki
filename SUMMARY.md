@@ -9,7 +9,7 @@
   * [🌐 双栈网络兼容](senkiroot/v4v6.md)
   * [🗺 千木社公共资源地图](senkiroot/qian-mu-she-gong-gong-zi-yuan-di-tu.md)
   * [🛠 S\_Project](senkiroot/s\_project/README.md)
-    * [\[维护中\]Counter GFW](senkiroot/s\_project/cgfw.md)
+    * [Counter GFW](senkiroot/s\_project/cgfw.md)
     * [\[维护\]WARP NET](senkiroot/s\_project/warp-net.md)
     * [\[维护\]Senki-FRP](senkiroot/s\_project/frp.md)
     * [\[维护\]Senki-KMS](senkiroot/s\_project/kms.md)
