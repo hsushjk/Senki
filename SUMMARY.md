@@ -9,7 +9,7 @@
   * [🌐 双栈网络兼容](qian-mu-she/v4v6.md)
   * [🗺 千木社公共资源地图](qian-mu-she/qian-mu-she-gong-gong-zi-yuan-di-tu.md)
   * [🛠 S\_Project](qian-mu-she/s\_project/README.md)
-    * [\[维护\]Counter GFW](counter-gfw.md)
+    * [\[维护中\]Counter GFW](qian-mu-she/s\_project/cgfw.md)
     * [\[维护\]WARP NET](warp-net.md)
     * [\[维护\]Senki-FRP](frp.md)
     * [\[维护\]Senki-KMS](kms.md)
