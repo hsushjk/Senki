@@ -1,6 +1,8 @@
-# \[维护]WARP NET
+---
+description: CLOUDFLARE.COM/Anycast
+---
 
-> 这个章节将展示“WARP NET”的有关信息
+# WARP
 
 {% hint style="info" %}
 注意：本章节不可避免的会有反审查色彩。
@@ -36,14 +38,10 @@
 
 ## 连接：
 
-\*新手请看教程
+\*用过1.1.1.1 Warp的用户请直接单击下方的链接获取支持，否则请查看教程
 
-请通过“快速支持页”按照提示获得信息（推荐）
-
-或者通过下方链接直达（不推荐，链接有失效风险）
-
-{% embed url="https://site.senki.top/warp.html" %}
-直达
+{% embed url="https://sqs.senki.top/warp/" %}
+S-QS/WARP
 {% endembed %}
 
 ## 使用教程：

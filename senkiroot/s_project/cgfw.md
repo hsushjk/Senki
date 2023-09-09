@@ -14,26 +14,37 @@ description: C-GFW
 声明：千木社对大陆审查制度保持中立态度，拒绝评价。
 {% endhint %}
 
+{% hint style="info" %}
+受网络高峰期影响，本节点可能会在某些时间变得比较卡顿，感谢理解
+{% endhint %}
+
+{% hint style="info" %}
+受大陆反制措施影响，节点与用户之间的连接可能会被不定时阻断/Qos/污染/甚至是封锁。这属于不可控因素，具体看地区和特殊时间段。
+{% endhint %}
+
+> Clash Link/猫猫链已停止维护，请尽快迁移到支持base64和直链订阅的客户端
+
 ## 内容：
 
 千木社开放了一个香港节点供用户使用：
 
-<pre><code>#位置：香港[Hong Kong]
+```
+#位置：香港[Hong Kong]
 #速率：30Mbps
 #去程线路：
  联通：联通169网络(AS4837) -> 联通169网络(AS4837)，直连网络
-<strong> 移动：移动骨干网(AS9808) -> 移动CMI境外骨干网(AS58453)，直连网络
-</strong> 电信：电信163骨干网(AS4134) -> CN2(AS4134)，CN2-GT网络
+ 移动：移动骨干网(AS9808) -> 移动CMI境外骨干网(AS58453)，直连网络
+ 电信：电信163骨干网(AS4134) -> CN2(AS4134)，CN2-GT网络
 #回程线路：
  联通：联通169网络(AS4837) -> 联通169网络(AS4837)，直连网络
  移动：移动CMI境外骨干网(AS58453) -> 移动骨干网(AS9808)，直连网络
  *有说法是移动回程也是AS4837
  电信：联通169网络(AS4837) -> 联通169网络(AS4837)，直连网络
 #月共享流量：1TB
-#核心：xray/v2ray
+#核心：xray
 #链接/订阅方式：一次性直链，V2，一次性Base64，Base64
 #配置文件：双栈，纯IPv4，纯IPv6，防DNS污染
-</code></pre>
+```
 
 ## 特点：
 
@@ -65,6 +76,12 @@ S-QS/CGFW
 ### 手机端v2ray(Android)：
 
 #### 1. 初步设置：
+
+\*\*\*若您使用过v2ray系列客户端且已经<mark style="background-color:blue;">会导入订阅</mark>/<mark style="background-color:blue;">调整域名策略</mark>，您可以跳过这一步，并直接通过“S-QS/CGFW”按照提示获得支持
+
+{% embed url="https://sqs.senki.top/cgfw/" %}
+S-QS/CGFW
+{% endembed %}
 
 按照视频教程操作即可，其中<mark style="background-color:blue;">视频开头打开的应用是一种浏览器</mark>，<mark style="background-color:blue;">用户自己操作的话用什么浏览器都行，</mark>输入的<mark style="color:blue;">网址为senki.top</mark>，该网址就是千木社官网
 
@@ -126,4 +143,53 @@ S-QS/CGFW
 
 ### 电脑端(Windows)：
 
-休息休息再写
+#### 1. 初步设置：
+
+\*\*\*若您使用过v2ray系列客户端且已经<mark style="background-color:blue;">会导入订阅</mark>/<mark style="background-color:blue;">调整域名策略</mark>，您可以跳过这一步，并直接通过“S-QS/CGFW”按照提示获得支持
+
+{% embed url="https://sqs.senki.top/cgfw/" %}
+S-QS/CGFW
+{% endembed %}
+
+一般情况下，没有v2rayN的用户只需下载千木社整合包：
+
+1. 打开上方的 "S-QS/CGFW" 链接
+2. 单击 "适用于Windows的客户端(整合包)" 的 "获取" 链接，并开始下载
+3. 打开压缩包，将文件夹 "v2rayN-With-Senki-GFW" 拷贝到一个合适的位置
+4. 打开文件夹中的"v2rayN.exe"
+5. 程序打开后会自动最小化，这是正常现象。
+6. 状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="background-color:blue;">"自动配置系统代理"</mark>
+7. 此时已配置完毕并接入节点。若要断开连接退出，请在状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="color:blue;">"清除系统代理"</mark>，即可安全退出！！！若要断开连接退出，请在状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="color:blue;">"清除系统代理"</mark>，即可安全退出！！！
+
+针对高级用户：
+
+* 整合包阉割了一部分核心，导致可能不能兼容其它节点，去GitHub补齐即可
+
+#### 2 . 进阶设置之主动 <mark style="background-color:blue;">"更新订阅"</mark>
+
+一般情况下，客户端会定期自动更新。但如果没有自动更新，用户只需：
+
+1. 将v2rayN保持<mark style="color:blue;">"清除系统代理"</mark>状态
+2. 状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="background-color:blue;">"更新全部订阅(不通过代理)"</mark>
+3. 等待最多不到十秒，一般即可更新成功（针对更进阶用户：若不放心，可以单击图标打开主界面，查看下方信息日志提示）
+4. 现在你可以继续使用了
+
+针对高级用户：
+
+* 千木社额外提供了<mark style="background-color:blue;">一次性直链，V2，一次性Base64，Base64</mark>订阅方式，根据具体需求进行相应操作即可（Clash链现已停止支持）
+
+#### 3. 进阶设置之选择配置文件
+
+一般情况下，用户只需：
+
+1. 将v2rayN保持<mark style="color:blue;">"清除系统代理"</mark>状态
+2. 单击任务栏的图标，打开主界面
+3. 在主界面使用键盘快捷键 "Ctrl+E"
+4. 等待大约十秒，你会发现<mark style="background-color:blue;">每行配置右方会有数字，其单位是ms</mark><mark style="background-color:purple;">（不是M/s）</mark>
+5. 选<mark style="background-color:blue;">最低的</mark>那个（<mark style="background-color:red;">-1ms除外</mark>）
+6. 不放心的话，你可以多重复几次第 3. 步
+7. 现在你可以继续使用了
+
+针对高级用户：
+
+* 配置文件中的 "双栈" "纯IPv4" "纯IPv6" "防DNS污染" 并<mark style="background-color:blue;">不是指连接后你的网络体验会怎么样</mark>，而是<mark style="background-color:blue;">指你的机器将以什么形式与千木社的C-GFW业务进行连接</mark>。用户可根据实际情况进行选择。

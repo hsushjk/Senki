@@ -4,6 +4,12 @@ description: Senki-Historys
 
 # 📜 千木社大事记
 
+### 2023-09-09 <a href="#_2020-11-23" id="_2020-11-23"></a>
+
+* Counter GFW（C-GFW）维护完毕
+* WARP 维护完毕
+* Senki-KMS 维护完毕
+
 ### 2023-09-08 <a href="#_2020-11-23" id="_2020-11-23"></a>
 
 * IPv6地址更换一次，此次更换解除了Google对千木社IPv6的风控

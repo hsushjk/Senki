@@ -1,8 +1,8 @@
+---
+description: S-KMS
+---
+
 # Senki-KMS
-
-> 这个章节将展示“Senki-KMS”的有关信息
-
-## 描述：
 
 千木社自建的KMS激活服务
 
@@ -22,25 +22,23 @@
 
 ## 参数：
 
-* 地址：senki.top
-* 端口：1688(默认端口)
-* 协议：TCP
+* 请访问快速支持
 
 ## 快速支持：
 
-{% embed url="https://site.senki.top/kms.html" %}
-直达
+{% embed url="https://sqs.senki.top/kms/" %}
+S-QS/KMS
 {% endembed %}
 
 ## 使用：
 
 ### 小白用户：
 
-若您只想简简单单激活，你可以直接[下载](https://site.senki.top/Senki-KMS-Script.exe)激活脚本运行。
+若您只想简简单单激活，你可以直接通过快速支持下载激活脚本运行。
 
 ### 高级用户：
 
-高级用户不需要我教
+高级用户不需要教（不是内涵高级用户，是因为MS的产品序列号太多太杂，而且这玩意到处都有教程）
 
 ## Tip：
 
