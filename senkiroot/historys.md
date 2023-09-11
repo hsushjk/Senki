@@ -4,6 +4,13 @@ description: Senki-Historys
 
 # 📜 千木社大事记
 
+### 2023-09-12 <a href="#_2020-11-23" id="_2020-11-23"></a>
+
+* Senki-FRP维护完毕
+* Senki-FRP虚拟主机穿透关停，什么时候有新机再开，要不然没啥意义
+* Senki-FRP服务端版本更新，并将x86/x64/arch64一同合并进windows客户端整合包
+* 为几乎所有S-QS界面添加了上次更新时间，该时间通过读取www.senki.top的源markdown文件的修改时间进行同步。
+
 ### 2023-09-09 <a href="#_2020-11-23" id="_2020-11-23"></a>
 
 * Counter GFW（C-GFW）维护完毕
