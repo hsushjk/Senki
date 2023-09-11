@@ -11,7 +11,7 @@
   * [🛠 S\_Project](senkiroot/s\_project/README.md)
     * [Counter GFW](senkiroot/s\_project/cgfw.md)
     * [WARP](senkiroot/s\_project/warp-net.md)
-    * [\[维护\]Senki-FRP](senkiroot/s\_project/frp.md)
+    * [Senki-FRP](senkiroot/s\_project/frp.md)
     * [Senki-KMS](senkiroot/s\_project/kms.md)
     * [\[维护\]Senki-NTP](senkiroot/s\_project/ntp.md)
     * [\[维护\]Senki MCJava](senkiroot/s\_project/wei-hu-senki-mcjava.md)

@@ -56,7 +56,7 @@ description: C-GFW
 
 ## 规则：
 
-1. 请遵守千木社用户规范。
+1. 请参考并遵守千木社用户规范。
 2. 尽量不要用于<mark style="background-color:orange;">注册</mark>高度敏感的网站，例如Google（但<mark style="background-color:orange;">登录</mark>可以。
 
 ## 连接：
@@ -193,3 +193,7 @@ S-QS/CGFW
 针对高级用户：
 
 * 配置文件中的 "双栈" "纯IPv4" "纯IPv6" "防DNS污染" 并<mark style="background-color:blue;">不是指连接后你的网络体验会怎么样</mark>，而是<mark style="background-color:blue;">指你的机器将以什么形式与千木社的C-GFW业务进行连接</mark>。用户可根据实际情况进行选择。
+
+### 其它平台：
+
+请自行寻找方法或请求社长指导

@@ -10,15 +10,15 @@ description: S-KMS
 
 ### 产品：
 
-#### MS Office：2010/2013/2016/2019/2021 MS-365
+MS Office：2010/2013/2016/2019/2021 MS-365
 
-#### Windows(零售/批量): Vista/7/8/8.1/10/11 LTSB/LTSC 神州网信
+Windows(零售/批量): Vista/7/8/8.1/10/11 LTSB/LTSC 神州网信
 
-#### Windows(Server): 2008/2008R2/2012/2012R2/2016/2019/2022
+Windows(Server): 2008/2008R2/2012/2012R2/2016/2019/2022
 
 ### 协议：
 
-#### Protocol：v4/v5/v6
+Protocol：v4/v5/v6
 
 ## 参数：
 
