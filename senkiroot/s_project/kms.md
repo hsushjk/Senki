@@ -4,11 +4,13 @@ description: S-KMS
 
 # Senki-KMS
 
-千木社自建的KMS激活服务
+KMS是密钥管理服务（Key Management Server），即通过系统管理员（System Administrator）使用一个批量激活密钥（Volume Key），设置一个激活服务器（Activation Server），并在每一个客户机上安装KMS的客户端，就可以进行批量激活和管理，是自从Windows Vista后微软开始使用的一种大型组织中的批量激活技术。
+
+Senki-KMS为千木社自建的KMS激活服务
 
 ## 支持范围：
 
-### 产品：
+### KMS产品：
 
 MS Office：2010/2013/2016/2019/2021 MS-365
 
@@ -16,9 +18,11 @@ Windows(零售/批量): Vista/7/8/8.1/10/11 LTSB/LTSC 神州网信
 
 Windows(Server): 2008/2008R2/2012/2012R2/2016/2019/2022
 
-### 协议：
+### KMS协议：
 
-Protocol：v4/v5/v6
+* Protocol v4
+* Protocol v5
+* Protocol v6
 
 ## 参数：
 
@@ -38,7 +42,7 @@ S-QS/KMS
 
 ### 高级用户：
 
-高级用户不需要教（不是内涵高级用户，是因为MS的产品序列号太多太杂，而且这玩意到处都有教程）
+高级用户不需要教（不是内涵高级用户，是因为MS的产品序列号太多太杂，而且这玩意到处都有教程，Senki-KMS存在的意义是域名简短好记罢了）
 
 ## Tip：
 
