@@ -13,4 +13,4 @@ description: Senki-Resource Map
 | net6.senki.top                                                            | 千木社通用网络接口(纯IPv6)-01                     | 仅IPv6 |
 | <mark style="background-color:blue;">www.senki.top</mark>                 | 千木社主页                                   | 双栈    |
 | <mark style="background-color:blue;">7a399daefa-hosting.gitbook.io</mark> | 千木社主页-host                              | 双栈    |
-| cloudflare.com                                                            | cdn                                     | 双栈    |
+| \*cloudflare                                                              | cdn                                     | 双栈    |
