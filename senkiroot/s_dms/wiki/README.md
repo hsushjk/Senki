@@ -1,7 +1,7 @@
 ---
 description: Wikimedia系列镜像站合集
-cover: https://upload.wikimedia.org/wikipedia/commons/8/81/Wikimedia-logo.svg
-coverY: 50
+cover: ../../../.gitbook/assets/Wikimedia-logo.svg
+coverY: 54.562318840579714
 layout:
   cover:
     visible: true
