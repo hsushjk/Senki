@@ -1,8 +1,8 @@
 ---
-description: Copyright & LICENSE & Rules
+description: Copyright & LICENSE & Rules & Security
 ---
 
-# © 版权&许可&规范
+# © 版权&许可&规范&安全
 
 ### 关于 "千木社用户<mark style="background-color:green;">规范</mark>"
 
@@ -44,3 +44,11 @@ description: Copyright & LICENSE & Rules
 千木社尊重原作者劳动成果，自始至终遵循所对应的 "开源许可证"
 
 > 「开源」是一个时髦且有情怀的词汇，始终伴随有理想主义色彩，优秀的开源项目远远不止是简单的公开源代码，而是需要将其当作公司战略进行贯彻，才能架设起牢不可破的信任桥梁。千木社社长"Fuqing"是开源的受益者之一，应以自己的方式 "到开源中去"&#x20;
+
+### 关于<mark style="background-color:orange;">安全</mark>问题
+
+为了保障用户的网络安全，千木社会封锁对千木社及用户具有威胁性的地址和行为。
+
+其中，IP名单来自“清华大学网络与信息安全实验室”，“FeodoTracker”等国内外具有权威性的安全实验室，包括IPv4和IPv6，并且定期更新。
+
+\*此外，未经特殊说明，其他的安全体系均为S\_Project自带，这一部分内容需要追溯到`Milk Cap 365-Zanry`，但并不需要详细解释，这是最基础的防护。

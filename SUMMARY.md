@@ -5,7 +5,7 @@
   * [📣 千木社公告板](senkiroot/bulletin.md)
   * [🙈 联系&捐助](senkiroot/contact-donate.md)
   * [📜 千木社大事记](senkiroot/historys.md)
-  * [© 版权&许可&规范](senkiroot/clr.md)
+  * [© 版权&许可&规范&安全](senkiroot/clrs.md)
   * [🌐 双栈网络兼容](senkiroot/v4v6.md)
   * [🗺 千木社公共资源地图](senkiroot/qian-mu-she-gong-gong-zi-yuan-di-tu.md)
   * [🧩 S\_Project(千木项目组)](senkiroot/s\_project/README.md)
