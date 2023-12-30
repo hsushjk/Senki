@@ -7,7 +7,7 @@ description: C-GFW
 该服务旨在绕过GFW，无视大陆网络审查，使大陆用户能够访问被GFW屏蔽的内容。
 
 {% hint style="info" %}
-2023/12/30，社长将cgfw停止公开，此后用户需要主动申请才能使用。
+2023/12/30，由于滥用严重，社长将cgfw更新后停止公开，此后用户需要主动申请才能使用。
 {% endhint %}
 
 {% hint style="info" %}
@@ -28,7 +28,7 @@ description: C-GFW
 
 ## 内容：
 
-千木社开放了一个香港节点供用户使用：
+千木社免费开放了一个香港节点供用户使用：
 
 ```
 #位置：香港[Hong Kong]
@@ -54,6 +54,7 @@ description: C-GFW
 2. 纯净IP，被各大厂商风控警告的可能性小。
 3. 在线人数少，几乎不用太担心有素质差的邻居。
 4. IP固定，免去异地登录带来的封号风险。
+5. 免费
 
 ## 规则：
 
@@ -62,13 +63,7 @@ description: C-GFW
 
 ## 连接：
 
-若您为老访客：请通过“S-QS/CGFW”按照提示获得支持
-
-{% embed url="https://sqs.senki.top/cgfw/" %}
-S-QS/CGFW
-{% endembed %}
-
-若您为新访客：请先查看**使用教程**
+请[联系社长](../contact-donate.md)
 
 ## 使用教程：
 
@@ -78,11 +73,7 @@ S-QS/CGFW
 
 #### 1. 初步设置：
 
-\*\*\*若您使用过v2ray系列客户端且已经<mark style="background-color:blue;">会导入订阅</mark>/<mark style="background-color:blue;">调整域名策略</mark>，您可以跳过这一步，并直接通过“S-QS/CGFW”按照提示获得支持
-
-{% embed url="https://sqs.senki.top/cgfw/" %}
-S-QS/CGFW
-{% endembed %}
+<mark style="background-color:red;">\*注：若您使用过v2ray系列客户端且已经会导入订阅，您可以跳过这一步，直接根据您自己的喜好进行调整。</mark>
 
 按照视频教程操作即可，其中<mark style="background-color:blue;">视频开头打开的应用是一种浏览器</mark>，<mark style="background-color:blue;">用户自己操作的话用什么浏览器都行，</mark>输入的<mark style="color:blue;">网址为senki.top</mark>，该网址就是千木社官网
 
@@ -108,21 +99,16 @@ S-QS/CGFW
 
 #### 1. 初步设置：
 
-\*\*\*若您使用过v2ray系列客户端且已经<mark style="background-color:blue;">会导入订阅</mark>/<mark style="background-color:blue;">调整域名策略</mark>，您可以跳过这一步，并直接通过“S-QS/CGFW”按照提示获得支持
+<mark style="background-color:red;">\*注：若您使用过v2ray系列客户端且已经会导入订阅，您可以跳过这一步，直接根据您自己的喜好进行调整。</mark>
 
-{% embed url="https://sqs.senki.top/cgfw/" %}
-S-QS/CGFW
-{% endembed %}
+一般情况下，没有v2rayN的用户只需下载社长提供的整合包：
 
-一般情况下，没有v2rayN的用户只需下载千木社整合包：
-
-1. 打开上方的 "S-QS/CGFW" 链接
-2. 单击 "适用于Windows的客户端(整合包)" 的 "获取" 链接，并开始下载
-3. 打开压缩包，将文件夹 "v2rayN-With-Senki-GFW" 拷贝到一个合适的位置
-4. 打开文件夹中的"v2rayN.exe"
-5. 程序打开后会自动最小化，这是正常现象。
-6. 状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="background-color:blue;">"自动配置系统代理"</mark>
-7. 此时已配置完毕并接入节点。若要断开连接退出，请在状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="color:blue;">"清除系统代理"</mark>，即可安全退出！！！若要断开连接退出，请在状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="color:blue;">"清除系统代理"</mark>，即可安全退出！！！
+1. 下载
+2. 打开压缩包，将文件夹 "v2rayN-With-Senki-GFW" 拷贝到一个合适的位置
+3. 打开文件夹中的"v2rayN.exe"
+4. 程序打开后可能会自动最小化，这是正常现象。
+5. 状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="background-color:blue;">"自动配置系统代理"</mark>
+6. 此时已配置完毕并接入节点。若要断开连接退出，请在状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="color:blue;">"清除系统代理"</mark>，即可安全退出！！！若要断开连接退出，请在状态栏<mark style="background-color:blue;">右键单击</mark>图标，选择 <mark style="color:blue;">"清除系统代理"</mark>，即可安全退出！！！
 
 针对高级用户：
 
