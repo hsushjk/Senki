@@ -6,7 +6,7 @@ description: Copyright & LICENSE & Rules & Security
 
 ### 关于 "千木社用户<mark style="background-color:green;">规范</mark>"
 
-千木社禁止用户将千木社提供的服务用于：
+千木社禁止用户将千木社提供的服务用于犯罪活动，包括但不限于：
 
 1. 反政府
 2. 儿童色情
@@ -47,8 +47,6 @@ description: Copyright & LICENSE & Rules & Security
 
 ### 关于<mark style="background-color:orange;">安全</mark>问题
 
-为了保障用户的网络安全，千木社会封锁对千木社及用户具有威胁性的地址和行为。
-
-其中，IP名单来自“清华大学网络与信息安全实验室”，“FeodoTracker”等国内外具有权威性的安全实验室，包括IPv4和IPv6，并且定期更新。
+为了保障用户的网络安全，千木社会定期封锁对千木社及用户具有威胁性的行为。
 
 \*此外，未经特殊说明，其他的安全体系均为S\_Project自带，这一部分内容需要追溯到`Milk Cap 365-Zanry`，但并不需要详细解释，这是最基础的防护。

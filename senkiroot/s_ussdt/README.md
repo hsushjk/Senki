@@ -2,7 +2,7 @@
 description: 千木社用户自助诊断工具
 ---
 
-# 🛠 S\_USSDT
+# 🛠 S\_USSDT(千木社用户自助诊断工具)
 
 S\_USSDT，全称 Senki User Self-service Diagnostic Tools 。是多个调试诊断工具的超集。能让用户在使用时出现问题能够自主诊断。S\_USSDT由<mark style="background-color:blue;">千木社</mark>直营。
 
@@ -10,10 +10,6 @@ S\_USSDT本质上是有能力的用户在出现使用困难时所使用的自助
 
 ### 地址：
 
-双栈：ussdt.senki.top
+Ipv4：ussdt.senki.top
 
-Ipv4：ussdt4.senki.top
-
-Ipv6：ussdt6.senki.top
-
-\*强制https已关闭
+\*强制https已关闭，但实际情况以客户端为准

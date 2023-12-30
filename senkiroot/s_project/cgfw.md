@@ -7,19 +7,7 @@ description: C-GFW
 该服务旨在绕过GFW，无视大陆网络审查，使大陆用户能够访问被GFW屏蔽的内容。
 
 {% hint style="info" %}
-关于Clash：
-
-
-
-23年09月，由于基于clash/clash分支的项目兼容性过差，自定义具有局限性。clash链已停用。
-
-23年11月，clash-core作者疑似出事，目前基于clash-core的项目和core都已删库/归档。在此，社长要求各位用户立刻转到非clash客户端（不为社长考虑，也要为你自己的安全和隐私考虑，好么）
-{% endhint %}
-
-{% hint style="info" %}
 叠甲：
-
-
 
 注意：任何地区的互联网环境都是受到管制的，无一例外，互联网并非法外之地，社长非常不希望用户使用互联网做出损人利己甚至损人不利己的事情
 
@@ -28,8 +16,6 @@ description: C-GFW
 
 {% hint style="info" %}
 稳定性：
-
-
 
 受网络高峰期影响，本节点可能会在某些时间变得比较卡顿，感谢理解
 
@@ -54,17 +40,16 @@ description: C-GFW
  电信：联通169网络(AS4837) -> 联通169网络(AS4837)，直连网络
 #月共享流量：1TB
 #核心：xray
-#链接/订阅方式：一次性直链，V2，一次性Base64，Base64
-#配置文件：双栈，纯IPv4，纯IPv6，防DNS污染
+#链接/订阅方式：请自行向社长申请
+#配置文件：网域，IPv4
 ```
 
 ## 特点：
 
 1. 隐私防泄漏，千木社以安全为第一位，拒绝监守自盗。
 2. 纯净IP，被各大厂商风控警告的可能性小。
-3. 兼容IPv6，双栈网络兼容性强。
-4. 在线人数少，几乎不用太担心有素质差的邻居。
-5. IP固定，免去异地登录带来的封号风险。
+3. 在线人数少，几乎不用太担心有素质差的邻居。
+4. IP固定，免去异地登录带来的封号风险。
 
 ## 规则：
 
@@ -115,44 +100,6 @@ S-QS/CGFW
 4. 等待大约不到十秒，知道<mark style="background-color:blue;">弹出 "成功" 的提示</mark>字样
 5. 现在你可以继续使用了
 
-针对高级用户：
-
-* 千木社额外提供了<mark style="background-color:blue;">一次性直链，V2，一次性Base64，Base64</mark>订阅方式，根据具体需求进行相应操作即可（Clash链现已停止支持）
-
-#### 3. 进阶设置之打开IPv6
-
-要使用千木社的IPv6，请：
-
-1. 将v2rayNG保持<mark style="color:blue;">关闭连接</mark>状态
-2. 单击<mark style="background-color:blue;">左上角</mark>的 <mark style="background-color:blue;">"三"</mark>
-3. 单击 <mark style="background-color:blue;">"设置"</mark>
-4. 在页面中找到 <mark style="background-color:blue;">"IPv6优先"</mark>
-5. 勾选上
-6. 回到主页面
-7. 现在你可以继续使用了
-
-\*打开IPv6后网速变慢/变卡？请参阅 ["双栈网络兼容"](../v4v6.md)
-
-针对高级用户：
-
-* 当<mark style="background-color:blue;">"IPv6优先"</mark>被<mark style="background-color:red;">打开</mark>时，尽管你只有IPv4你也能访问IPv6资源；反过来说仅有IPv6也能通过C-GFW访问IPv4资源（但此时不勾选<mark style="background-color:blue;">"IPv6优先"</mark>可能会造成代理后的IPv6工作不正常）
-
-#### 4. 进阶设置之选择配置文件
-
-一般情况下，用户只需：
-
-1. 将v2rayNG保持<mark style="color:blue;">关闭连接</mark>状态
-2. 单击右上角的 <mark style="background-color:blue;">"三个点"</mark> 样的图标
-3. 然后单击 <mark style="background-color:blue;">"测试全部配置真连接"</mark>
-4. 等待大约十秒，你会发现<mark style="background-color:blue;">每张配置卡片右上角会有以ms为单位的数字</mark>
-5. 选<mark style="background-color:blue;">最低的</mark>那个（<mark style="background-color:red;">-1ms除外</mark>）
-6. 不放心的话，你可以多重复几次第 3. 步
-7. 现在你可以继续使用了
-
-针对高级用户：
-
-* 配置文件中的 "双栈" "纯IPv4" "纯IPv6" "防DNS污染" 并<mark style="background-color:blue;">不是指连接后你的网络体验会怎么样</mark>，而是<mark style="background-color:blue;">指你的机器将以什么形式与千木社的C-GFW业务进行连接</mark>。用户可根据实际情况进行选择。
-
 ### 电脑端(Windows)：
 
 #### 1. 初步设置：
@@ -186,26 +133,6 @@ S-QS/CGFW
 3. 等待最多不到十秒，一般即可更新成功（针对更进阶用户：若不放心，可以单击图标打开主界面，查看下方信息日志提示）
 4. 现在你可以继续使用了
 
-针对高级用户：
+### 其它操作系统：
 
-* 千木社额外提供了<mark style="background-color:blue;">一次性直链，V2，一次性Base64，Base64</mark>订阅方式，根据具体需求进行相应操作即可（Clash链现已停止支持）
-
-#### 3. 进阶设置之选择配置文件
-
-一般情况下，用户只需：
-
-1. 将v2rayN保持<mark style="color:blue;">"清除系统代理"</mark>状态
-2. 单击任务栏的图标，打开主界面
-3. 在主界面使用键盘快捷键 "Ctrl+E"
-4. 等待大约十秒，你会发现<mark style="background-color:blue;">每行配置右方会有数字，其单位是ms</mark><mark style="background-color:purple;">（不是M/s）</mark>
-5. 选<mark style="background-color:blue;">最低的</mark>那个（<mark style="background-color:red;">-1ms除外</mark>）
-6. 不放心的话，你可以多重复几次第 3. 步
-7. 现在你可以继续使用了
-
-针对高级用户：
-
-* 配置文件中的 "双栈" "纯IPv4" "纯IPv6" "防DNS污染" 并<mark style="background-color:blue;">不是指连接后你的网络体验会怎么样</mark>，而是<mark style="background-color:blue;">指你的机器将以什么形式与千木社的C-GFW业务进行连接</mark>。用户可根据实际情况进行选择。
-
-### 其它平台：
-
-请自行寻找方法或请求社长指导
+：）

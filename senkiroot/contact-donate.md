@@ -15,7 +15,7 @@ description: Contact & Donate
 
 ### 捐助：
 
-使用PayPal捐款
+使用PayPal捐款（请注意，2024年后，您的捐助可能并不会很快用于改善千木社）
 
 {% embed url="https://paypal.me/fuqing2233" %}
 Paypal Donate
