@@ -26,16 +26,17 @@ description: Copyright & LICENSE & Rules & Security
 16. 欺凌
 17. 勒索
 18. 传播谣言
+19. 色情服务及风俗业
 
-### 关于 "Senki-Quick Support" 的<mark style="background-color:red;">版权问题</mark>与<mark style="background-color:blue;">许可问题</mark>
+\*解释权归千木社所有
+
+\*\*部分NSFW/匿名代理/侵袭破解等在千木社的特殊豁免范围内，在不发布不传播的基础上千木社不禁止。
+
+### 关于 "Senki-Quick Support"&#x20;
 
 "Senki-Quick Support" 中文名为 “(千木)快速支持”，缩写为 "S-QS"。在部分不支持使用连接符"-"的场景下，缩写可能会直接写作"SQS"
 
-"Senki-Quick Support" 的部分 代码/体系/机制 参照或修改自 "Milk Cap 365" 的 "Milk Cap 365-Zanry"
-
-<mark style="background-color:red;">千木社未造成侵权。</mark>"Milk Cap 365" 的管理层人员之一 "Fuqing" 已在2023年05月25日将副本的部分内容授权批准并分发至 "千木社" 的有效负责人和管理员 "Fuqing" 。
-
-<mark style="background-color:blue;">千木社未违反许可。</mark>其中，许可中提到若持续获取 "Milk Cap 365-Zanry" 更新，则必须在相关位置标明 "Milk Cap 365-Zanry" 为上游，否则禁止标注。"S-QS" 目前需要同步更新上游部分内容，因此按照许可内容在相关位置进行了标记。
+在2024年后，所有前端内容已归档，内容虽依旧使用 "Milk Cap 365-Zanry" 构建并发布，但SQS已为静态格式。
 
 ### 关于 "开源许可证" 的<mark style="background-color:blue;">许可问题</mark>
 
@@ -43,10 +44,8 @@ description: Copyright & LICENSE & Rules & Security
 
 千木社尊重原作者劳动成果，自始至终遵循所对应的 "开源许可证"
 
-> 「开源」是一个时髦且有情怀的词汇，始终伴随有理想主义色彩，优秀的开源项目远远不止是简单的公开源代码，而是需要将其当作公司战略进行贯彻，才能架设起牢不可破的信任桥梁。千木社社长"Fuqing"是开源的受益者之一，应以自己的方式 "到开源中去"&#x20;
+> 「开源」是一个时髦且有情怀的词汇，始终伴随有理想主义色彩，优秀的开源项目远远不止是简单的公开源代码，而是需要将其当作战略进行贯彻，才能架设起牢不可破的信任桥梁。每一位受益者，应以自己的方式 "到开源中去"&#x20;
 
 ### 关于<mark style="background-color:orange;">安全</mark>问题
 
-为了保障用户的网络安全，千木社会定期封锁对千木社及用户具有威胁性的行为。
-
-\*此外，未经特殊说明，其他的安全体系均为S\_Project自带，这一部分内容需要追溯到`Milk Cap 365-Zanry`，但并不需要详细解释，这是最基础的防护。
+为了保障用户的安全并保持千木社稳定运作，千木社会定期封锁对千木社及用户具有威胁性的行为及修补潜在的威胁。

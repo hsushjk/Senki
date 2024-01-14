@@ -18,11 +18,9 @@ layout:
     visible: true
 ---
 
-# 🧩 S\_Project
+# 🧩 S\_Project(千木项目组)
 
-S\_Project，全称 Senki Project 。是多个千木社公共公益项目的超集，用于管理和满足不同用户的不同需求。S\_Project由<mark style="background-color:blue;">千木社</mark>直营。
-
-S\_Project的核心组件和管理体系被称为`S-QS(即Senki-Quick Support)`，参照了部分`Milk Cap 365-Zanry`的机制，但本体完全独立，并提供适用于大众的简便的操作流程。
+S\_Project，全称 Senki Project 。是多个千木社公共公益向项目的超集，用于管理和满足不同用户的不同需求。S\_Project由<mark style="background-color:blue;">千木社</mark>直营。
 
 {% embed url="https://sqs.senki.top/" %}
 `S-QS(Senki-Quick Support)用户端`

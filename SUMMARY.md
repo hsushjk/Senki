@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🌏 千木社](README.md)
-  * [📣 千木社公告板](senkiroot/bulletin.md)
   * [🙈 联系&捐助](senkiroot/contact-donate.md)
   * [📜 千木社大事记](senkiroot/historys.md)
   * [© 版权&许可&规范&安全](senkiroot/clrs.md)

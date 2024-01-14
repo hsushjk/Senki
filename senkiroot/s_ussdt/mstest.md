@@ -10,8 +10,6 @@ description: mstest(延迟测试)
 
 双栈：ussdt.senki.top/mstest
 
-Ipv4：ussdt4.senki.top/mstest
-
-Ipv6：ussdt6.senki.top/mstest
+IPv4：ussdt4.senki.top/mstest
 
 \*强制https已关闭
