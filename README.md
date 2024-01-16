@@ -30,4 +30,6 @@ layout:
 
 > 千木社现已归档且削减大量服务，但这并不代表千木社运营即将到头，社长将尽量继续维护下去。
 
+> 为了千木社与用户的安全着想，暂不为海外用户（包括港澳台）提供完整服务，抱歉。
+
 <figure><img src=".gitbook/assets/Senki彩长.svg" alt=""><figcaption><p>SENKI.TOP Wallpaper</p></figcaption></figure>
