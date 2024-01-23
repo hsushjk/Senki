@@ -9,5 +9,4 @@
     * [Senki-FRP](senkiroot/s\_project/frp.md)
     * [Senki-KMS](senkiroot/s\_project/kms.md)
     * [Senki-NTP](senkiroot/s\_project/ntp.md)
-  * [🛠 S\_USSDT(千木社用户自助诊断工具)](senkiroot/s\_ussdt/README.md)
-    * [mstest(延迟测试)](senkiroot/s\_ussdt/mstest.md)
+  * [🛠 S\_Network-Test(千木社网络接口测速工具)](senkiroot/nt.md)
