@@ -9,4 +9,5 @@
     * [Senki-FRP](senkiroot/s\_project/frp.md)
     * [Senki-KMS](senkiroot/s\_project/kms.md)
     * [Senki-NTP](senkiroot/s\_project/ntp.md)
-  * [🛠 S\_Network-Test(千木社网络接口测速工具)](senkiroot/nt.md)
+  * [🌐 Universal Network Interface(通用网络接口)](senkiroot/uni.md)
+  * [🛠 S\_Network-Test(千木社通用网络接口测速工具)](senkiroot/nt.md)
