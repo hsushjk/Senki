@@ -4,6 +4,7 @@
   * [🙈 联系&捐助](senkiroot/contact-donate.md)
   * [📜 千木社大事记](senkiroot/historys.md)
   * [© 版权&许可&规范&安全](senkiroot/clrs.md)
+  * [🇺🇳 日常议题与其它](senkiroot/gie.md)
   * [🧩 S\_Project(千木项目组)](senkiroot/s\_project/README.md)
     * [Counter GFW](senkiroot/s\_project/cgfw.md)
     * [Senki-FRP](senkiroot/s\_project/frp.md)

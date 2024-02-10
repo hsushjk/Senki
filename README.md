@@ -20,6 +20,8 @@ layout:
 
 # 🌏 千木社
 
+## <mark style="color:red;background-color:red;">2024年新年快乐。新的一年祝大家万事顺遂，健康如意。</mark>
+
 ## 欢迎访问 千木社
 
 千木社原名 “Fuqing博客” ，成立于2022年，七月末更名为千木社。
