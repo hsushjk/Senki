@@ -4,9 +4,13 @@ description: S-FRP
 
 # Senki-FRP
 
-FRP 是一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、<mark style="background-color:orange;">HTTP、HTTPS（注：千木社暂不支持穿透http(s)）</mark> 等多种协议。可以将内网服务以安全、便捷的方式通过具有公网 IP 节点的中转暴露到公网。
+FRP 是一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、<mark style="background-color:orange;">HTTP、HTTPS（注：千木社暂不支持穿透http(s)）</mark> 等多种协议。可以将内网服务以安全、便捷的方式通过具有公网 IP 的节点中转暴露到公网。
 
-Senki-FRP为千木社提供的免费低延小带宽FRP服务。
+Senki-FRP是千木社提供的免费FRP服务。
+
+## 大致配置：
+
+\#请参考[Universal Network Interface(通用网络接口)](../uni.md)
 
 ## 特点：
 
@@ -19,10 +23,8 @@ Senki-FRP为千木社提供的免费低延小带宽FRP服务。
 
 ## [ ](https://gofrp.org/docs/overview/#%E4%B8%8B%E4%B8%80%E6%AD%A5)Senki-FRP专有特点：
 
-* 低延迟，延迟一般为60-70ms（测试环境：电信网络，Minecraft服务器）
 * 免费，无需注册任何账号
 * 纯净，大陆审查不会将此判断为诈骗站点/ip
-* 勉强适中的带宽，提供最大30Mbps的带宽
 
 ## Senki-FRP缺点：
 
@@ -32,10 +34,6 @@ Senki-FRP为千木社提供的免费低延小带宽FRP服务。
 ## 规则：
 
 * 请参考并遵守千木社用户规范。
-
-## 参数：
-
-* 请访问快速支持
 
 ## 快速支持：
 

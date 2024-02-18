@@ -6,7 +6,7 @@ description: Contact & Donate
 
 ### 联系社长：
 
-* 📮E-Mail：fuqing2233@gmail.com
+* 📮E-Mail：fuqing2233@gmail.com/fuqing@senki.top
 * 🐧QQ：3402560498
 * 💬WeChat：Senki2233
 * 🐦Twitter：@JFuqing
@@ -15,7 +15,7 @@ description: Contact & Donate
 
 ### 捐助：
 
-使用PayPal捐款（请注意，2024年后，您的捐助可能并不会很快用于改善千木社）
+使用PayPal捐款（或者联系社长）
 
 {% embed url="https://paypal.me/fuqing2233" %}
 Paypal Donate
