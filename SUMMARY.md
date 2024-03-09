@@ -5,7 +5,6 @@
   * [📜 千木社大事记](senkiroot/historys.md)
   * [🗃️ 披露](senkiroot/disclose.md)
   * [©️ 版权&许可&规范&安全](senkiroot/clrs.md)
-  * [🇺🇳 日常议题与其它\[完善中\]](senkiroot/gie.md)
   * [🧩 S\_Project(千木项目组)](senkiroot/s\_project/README.md)
     * [Counter GFW](senkiroot/s\_project/cgfw.md)
     * [Senki-Kiwix](senkiroot/s\_project/senki-kiwix.md)
