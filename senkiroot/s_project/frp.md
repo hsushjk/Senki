@@ -10,7 +10,7 @@ Senki-FRP是千木社提供的免费FRP服务。
 
 ## 大致配置：
 
-\#请参考[Universal Network Interface(通用网络接口)](../uni.md)
+\#请参考[Universal Network Interface(通用网络接口)](../uni/)
 
 ## 特点：
 

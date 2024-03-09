@@ -26,7 +26,7 @@ description: C-GFW
 
 ## 大致配置：
 
-\#请参考[Universal Network Interface(通用网络接口)](../uni.md)
+\#请参考[Universal Network Interface(通用网络接口)](../uni/)
 
 ## 特点（优点）：
 
